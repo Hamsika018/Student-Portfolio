@@ -21,3 +21,9 @@ Replace these examples with skills you can confidently discuss in an interview.
 - Data Structures and Algorithms
 - SQL and database fundamentals
 - Testing and debugging
+
+## Certifications
+
+- **Certification Name:** [Database Management System]
+- **Issuing Organization:** [Coursera]
+- **Status:** Completed

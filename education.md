@@ -1,10 +1,10 @@
 # Education
 
 ## Bachelor of Technology (B.Tech)
-- **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+- **Branch:** Artifical Intelligence and Machine Learning
+- **Institution:** Aditya University
+- **Study period:** 2025–2029
+- **CGPA / Percentage:** 8.96
 
 ## Relevant Coursework
 - Programming Fundamentals
@@ -16,3 +16,8 @@
 ## Achievements and Certifications
 - Add verified certifications, hackathons, awards, or academic achievements.
 - Include the year and issuing organisation where relevant.
+
+## Education Details
+
+- **Degree:** B.Tech in Artifical Intelligence and Machine Learning
+- **Current Status:** Second Year
