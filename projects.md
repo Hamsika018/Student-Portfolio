@@ -2,12 +2,13 @@
 
 Add clear, honest descriptions of academic and personal projects.
 
-## Project 1: Student Attendance Tracker
-- **Problem:** Keeping attendance records organised can take time.
-- **Solution:** A small application concept for entering attendance and producing a summary.
-- **Technologies:** Java, CSV files
-- **My contribution:** Implemented the input flow and summary logic.
-- **Possible improvement:** Add data validation and export reports.
+## Project 1: Complaint Management System
+
+- **Problem:** Managing and tracking complaints manually can be time-consuming and difficult to organise.
+- **Solution:** A simple application for recording complaints, managing their details, and tracking their status.
+- **Technologies:** Python, Data Structures and Algorithms (DSA)
+- **My contribution:** Implemented the complaint management logic and organised complaint records.
+- **Possible improvement:** Add database integration, user authentication, and complaint status updates.
 
 ## Project 2: Personal Portfolio Website
 - **Problem:** Students need a simple way to present their skills and work.
